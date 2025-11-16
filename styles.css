@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.box-model{
+div{
 	width: 300px;
 	background-color: lightblue;
 	border:15px solid blue;
